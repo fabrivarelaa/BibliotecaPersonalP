@@ -1,3 +1,3 @@
 @echo off
-java -jar BibliotecaPersonalV2.jar
+java -jar BibliotecaPersonal.jar
 pause
